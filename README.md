@@ -1,4 +1,4 @@
-ProgressRingforWP
+ProgressRingforWindowsPhone
 ===========================
 
 As you know Windows Phone doesn't have a "ProgressRing" control (Windows 8 has!). So, I provided a sample project to use it your own projects.
